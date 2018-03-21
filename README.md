@@ -72,6 +72,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenCycleMap - Thunderforest**: http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png
 
+* **OpenRiverBoatMap - OpenStreetMap France**: http://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
+
 * **OpenStreetMap - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm/{z}/{x}/{y}.png
 
 * **OpenStreetMap ÖPNV-Karte - OpenStreetMap Deutschland**: https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
@@ -79,6 +81,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenStreetMap - Black & White Mapnik - Wikimedia Foundation**: http://a.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Deutschland - OpenStreetMap - Deutschland**: http://a.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://b.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://c.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://d.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png
+
+* **OpenStreetMap - France - OpenStreetMap France**: http://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**: http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
 
