@@ -8,6 +8,40 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 
 
+## Belgium
+
+* **Belgium Boundary - GEO-6**: https://geo6.be/mapproxy/boundary/wmts/boundary/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Civil Protection - GEO-6**: https://geo6.be/mapproxy/zones/wmts/civil_protection/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Emergency - GEO-6**: https://geo6.be/mapproxy/zones/wmts/emergency/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Fire Service - GEO-6**: https://geo6.be/mapproxy/zones/wmts/fire_service/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Judicial - GEO-6**: https://geo6.be/mapproxy/zones/wmts/judicial/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Police - GEO-6**: https://geo6.be/mapproxy/zones/wmts/police/webmercator/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Belgium (DE) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-de/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Belgium (FR) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-fr/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Belgium (Multilingual) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Belgium (NL) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-nl/{z}/{x}/{y}.png
+
+
+
+## Flanders
+
+* **GRB Basiskaart (grijs) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk_grijs&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+
+* **GRB Basiskaart (kleur) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+
+* **GRB Basiskaart (selectie) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_sel&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+
+
+
 ## World
 
 * **CARTO Dark All - CARTO**: http://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png
