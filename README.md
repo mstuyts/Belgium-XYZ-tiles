@@ -22,13 +22,13 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Belgium Police - GEO-6**: https://geo6.be/mapproxy/zones/wmts/police/webmercator/{z}/{x}/{y}.png
 
-* **OpenFietsKaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-overlay/{z}/{x}/{y}.png
+* **OpenFietsKaart - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-overlay/{z}/{x}/{y}.png
 
-* **OpenFietsKaart (Lokaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-lcn/{z}/{x}/{y}.png
+* **OpenFietsKaart (Lokaal) - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-lcn/{z}/{x}/{y}.png
 
-* **OpenFietsKaart (Nationaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-ncn/{z}/{x}/{y}.png
+* **OpenFietsKaart (Nationaal) - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-ncn/{z}/{x}/{y}.png
 
-* **OpenFietsKaart (Regionaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-rcn/{z}/{x}/{y}.png
+* **OpenFietsKaart (Regionaal) - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-rcn/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Belgium (DE) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-de/{z}/{x}/{y}.png
 
@@ -38,75 +38,77 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenStreetMap - Belgium (NL) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-nl/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Nederland - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/osm/{z}/{x}/{y}.png
+* **OpenStreetMap - Nederland - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/osm/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Nederland - Basiskaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/basemap/{z}/{x}/{y}.png
+* **OpenStreetMap - Nederland - Basiskaart - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/basemap/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Nederland - Plaatsen - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/places/{z}/{x}/{y}.png
+* **OpenStreetMap - Nederland - Plaatsen - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/places/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Nederland - POI's - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/pois/{z}/{x}/{y}.png
+* **OpenStreetMap - Nederland - POI's - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/pois/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Nederland - Straten - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/roads/{z}/{x}/{y}.png
+* **OpenStreetMap - Nederland - Straten - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/roads/{z}/{x}/{y}.png
 
-* **OpenWandelKaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openwandelkaart-overlay/{z}/{x}/{y}.png
+* **OpenWandelKaart - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openwandelkaart-overlay/{z}/{x}/{y}.png
 
 
 
 ## Flanders
 
-* **GRB Basiskaart (grijs) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk_grijs&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+* **GRB Basiskaart (grijs) - Informatie Vlaanderen**: https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk_grijs&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
 
-* **GRB Basiskaart (kleur) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+* **GRB Basiskaart (kleur) - Informatie Vlaanderen**: https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_bsk&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
 
-* **GRB Basiskaart (selectie) - Informatie Vlaanderen**: http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_sel&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+* **GRB Basiskaart (selectie) - Informatie Vlaanderen**: https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=grb_sel&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
+
+* **Orthofoto - Agentschap Informatie Vlaanderen**: https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=omwrgbmrvl&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}
 
 
 
 ## World
 
-* **CARTO Dark All - CARTO**: http://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png
+* **CARTO Dark All - CARTO**: https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png
 
-* **Esri DeLorme World Base Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}
+* **Esri DeLorme World Base Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}
 
-* **Esri National Geographic World Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}
+* **Esri National Geographic World Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}
 
-* **Esri Ocean Basemap - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}
+* **Esri Ocean Basemap - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}
 
 * **Esri World Boundaries and Places - Esri**: https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}
 
 * **Esri World Boundaries and Places (Alternate) - Esri**: https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places_Alternate/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Dark Gray Base Layer - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}
+* **Esri World Dark Gray Base Layer - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Dark Gray Reference Layer - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}
+* **Esri World Dark Gray Reference Layer - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Hillshade - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/tile/{z}/{y}/{x}
+* **Esri World Hillshade - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Imagery - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+* **Esri World Imagery - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Light Gray Base Layer - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}
+* **Esri World Light Gray Base Layer - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Light Gray Reference Layer - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}
+* **Esri World Light Gray Reference Layer - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Navigation Charts - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}
+* **Esri World Navigation Charts - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Ocean Base - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}
+* **Esri World Ocean Base - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Ocean Reference - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}
+* **Esri World Ocean Reference - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Physical Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}
+* **Esri World Physical Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Reference Overlay - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/tile/{z}/{y}/{x}
+* **Esri World Reference Overlay - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Shaded Relief - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}
+* **Esri World Shaded Relief - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Street Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}
+* **Esri World Street Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Terrain Base Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}
+* **Esri World Terrain Base Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Topo Map - Esri**: http://server.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
+* **Esri World Topo Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
 
-* **Esri World Transportation - Esri**: http://server.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}
+* **Esri World Transportation - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}
 
 * **Google Maps - Google**: https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}
 
@@ -124,11 +126,11 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Hike Bike Map - Wikimedia Foundation**: http://a.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png
 
-* **OpenCycleMap - Thunderforest**: http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png
+* **OpenCycleMap - Thunderforest**: https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png
 
-* **OpenRiverBoatMap - OpenStreetMap France**: http://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
+* **OpenRiverBoatMap - OpenStreetMap France**: https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
 
-* **OpenSeaMap - OpenSeaMap**: http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
+* **OpenSeaMap - OpenSeaMap**: https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm/{z}/{x}/{y}.png
 
@@ -136,13 +138,13 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenStreetMap - Black & White Mapnik - Wikimedia Foundation**: http://a.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png
 
-* **OpenStreetMap - Deutschland - OpenStreetMap - Deutschland**: http://a.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://b.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://c.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - http://d.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png
+* **OpenStreetMap - Deutschland - OpenStreetMap - Deutschland**: https://a.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://b.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://c.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://d.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png
 
-* **OpenStreetMap - France - OpenStreetMap France**: http://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png
+* **OpenStreetMap - France - OpenStreetMap France**: https://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png
 
-* **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**: http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
+* **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
 
-* **OpenStreetMap Carto Style (default) - OpenStreetMap Foundation**: http://a.tile.openstreetmap.org/{z}/{x}/{y}.png - http://b.tile.openstreetmap.org/{z}/{x}/{y}.png - http://c.tile.openstreetmap.org/{z}/{x}/{y}.png
+* **OpenStreetMap Carto Style (default) - OpenStreetMap Foundation**: https://a.tile.openstreetmap.org/{z}/{x}/{y}.png - https://b.tile.openstreetmap.org/{z}/{x}/{y}.png - https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 * **OpenStreetMap Multilingual - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png
 
@@ -210,21 +212,21 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Strava Global Heatmap - Winter Sports - Hot - Strava**: https://heatmap-external-a.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256
 
-* **Thunderforest Landscape Map - Thunderforest**: http://a.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/landscape/{z}/{x}/{y}.png
+* **Thunderforest Landscape Map - Thunderforest**: https://a.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/landscape/{z}/{x}/{y}.png
 
-* **Thunderforest Mobile Atlas - Thunderforest**: http://a.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png
+* **Thunderforest Mobile Atlas - Thunderforest**: https://a.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png
 
-* **Thunderforest Neighbourhood Map - Thunderforest**: http://a.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png
+* **Thunderforest Neighbourhood Map - Thunderforest**: https://a.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png
 
-* **Thunderforest Outdoors Map - Thunderforest**: http://a.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png
+* **Thunderforest Outdoors Map - Thunderforest**: https://a.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png
 
-* **Thunderforest Pioneer Map - Thunderforest**: http://a.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png
+* **Thunderforest Pioneer Map - Thunderforest**: https://a.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png
 
-* **Thunderforest Spinal Map - Thunderforest**: http://a.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png
+* **Thunderforest Spinal Map - Thunderforest**: https://a.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png
 
-* **Thunderforest Transport Dark Map - Thunderforest**: http://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png
+* **Thunderforest Transport Dark Map - Thunderforest**: https://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png
 
-* **Thunderforest Transport Map - Thunderforest**: http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png
+* **Thunderforest Transport Map - Thunderforest**: https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png
 
 * **Waymarkedtrails - Cycling - Waymarkedtrails**: https://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png
 
