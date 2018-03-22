@@ -22,6 +22,14 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Belgium Police - GEO-6**: https://geo6.be/mapproxy/zones/wmts/police/webmercator/{z}/{x}/{y}.png
 
+* **OpenFietsKaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-overlay/{z}/{x}/{y}.png
+
+* **OpenFietsKaart (Lokaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-lcn/{z}/{x}/{y}.png
+
+* **OpenFietsKaart (Nationaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-ncn/{z}/{x}/{y}.png
+
+* **OpenFietsKaart (Regionaal) - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openfietskaart-rcn/{z}/{x}/{y}.png
+
 * **OpenStreetMap - Belgium (DE) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-de/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Belgium (FR) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-fr/{z}/{x}/{y}.png
@@ -29,6 +37,18 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenStreetMap - Belgium (Multilingual) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Belgium (NL) - OpenStreetMap Belgium**: https://tile.osm.be/osmbe-nl/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Nederland - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/osm/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Nederland - Basiskaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/basemap/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Nederland - Plaatsen - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/places/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Nederland - POI's - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/pois/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Nederland - Straten - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/roads/{z}/{x}/{y}.png
+
+* **OpenWandelKaart - OpenStreetMap Nederland**: http://tile.openstreetmap.nl/openwandelkaart-overlay/{z}/{x}/{y}.png
 
 
 
@@ -108,6 +128,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenRiverBoatMap - OpenStreetMap France**: http://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - http://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
 
+* **OpenSeaMap - OpenSeaMap**: http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
+
 * **OpenStreetMap - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm/{z}/{x}/{y}.png
 
 * **OpenStreetMap ÖPNV-Karte - OpenStreetMap Deutschland**: https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
@@ -123,6 +145,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenStreetMap Carto Style (default) - OpenStreetMap Foundation**: http://a.tile.openstreetmap.org/{z}/{x}/{y}.png - http://b.tile.openstreetmap.org/{z}/{x}/{y}.png - http://c.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 * **OpenStreetMap Multilingual - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png
+
+* **OpenTopoMap - Friedrich-Alexander-Universität Erlangen-Nürnberg**: https://a.tile.opentopomap.org/{z}/{x}/{y}.png - https://b.tile.opentopomap.org/{z}/{x}/{y}.png - https://c.tile.opentopomap.org/{z}/{x}/{y}.png
 
 * **Stamen Terrain Background - Stamen**: http://a.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://b.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://c.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://d.tile.stamen.com/terrain-background/{z}/{x}/{y}.png
 
@@ -144,7 +168,7 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Stamen Toner Lite - Stamen**: http://a.tile.stamen.com/toner-lite/{z}/{x}/{y}.png - http://b.tile.stamen.com/toner-lite/{z}/{x}/{y}.png - http://c.tile.stamen.com/toner-lite/{z}/{x}/{y}.png - http://d.tile.stamen.com/toner-lite/{z}/{x}/{y}.png
 
-* **Stamen Watercolor - Stamen**: http://a.tile.stamen.com/watercolor/{z}/{x}/{y}.png - http://b.tile.stamen.com/watercolor/{z}/{x}/{y}.png - http://c.tile.stamen.com/watercolor/{z}/{x}/{y}.png - http://d.tile.stamen.com/watercolor/{z}/{x}/{y}.png
+* **Stamen Watercolor - Stamen**: http://a.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg - http://b.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg - http://c.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg - http://d.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg
 
 * **Strava Global Heatmap - All - Blue - Strava**: https://heatmap-external-a.strava.com/tiles/all/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/all/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/all/blue/{z}/{x}/{y}.png?px=256
 
@@ -162,6 +186,30 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Strava Global Heatmap - Rides - Hot - Strava**: https://heatmap-external-a.strava.com/tiles/ride/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/ride/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/ride/hot/{z}/{x}/{y}.png?px=256
 
+* **Strava Global Heatmap - Runs - Blue - Strava**: https://heatmap-external-a.strava.com/tiles/run/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/run/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/run/blue/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Runs - Blue-Red - Strava**: https://heatmap-external-a.strava.com/tiles/run/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/run/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/run/bluered/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Runs - Gray - Strava**: https://heatmap-external-a.strava.com/tiles/run/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/run/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/run/gray/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Runs - Hot - Strava**: https://heatmap-external-a.strava.com/tiles/run/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/run/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/run/hot/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Water Sports - Blue - Strava**: https://heatmap-external-a.strava.com/tiles/water/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/blue/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Water Sports - Blue-Red - Strava**: https://heatmap-external-a.strava.com/tiles/water/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/bluered/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Water Sports - Gray - Strava**: https://heatmap-external-a.strava.com/tiles/water/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/gray/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Water Sports - Hot - Strava**: https://heatmap-external-a.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Winter Sports - Blue - Strava**: https://heatmap-external-a.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Winter Sports - Blue-Red - Strava**: https://heatmap-external-a.strava.com/tiles/winter/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/bluered/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/bluered/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Winter Sports - Gray - Strava**: https://heatmap-external-a.strava.com/tiles/winter/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/gray/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/gray/{z}/{x}/{y}.png?px=256
+
+* **Strava Global Heatmap - Winter Sports - Hot - Strava**: https://heatmap-external-a.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256
+
 * **Thunderforest Landscape Map - Thunderforest**: http://a.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/landscape/{z}/{x}/{y}.png
 
 * **Thunderforest Mobile Atlas - Thunderforest**: http://a.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png
@@ -177,6 +225,20 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **Thunderforest Transport Dark Map - Thunderforest**: http://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png
 
 * **Thunderforest Transport Map - Thunderforest**: http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - http://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - http://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Cycling - Waymarkedtrails**: https://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Hiking - Waymarkedtrails**: https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Hillshading - Waymarkedtrails**: https://tile.waymarkedtrails.org/hillshading/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - MTB - Waymarkedtrails**: https://tile.waymarkedtrails.org/mtb/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Riding - Waymarkedtrails**: https://tile.waymarkedtrails.org/riding/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Skating - Waymarkedtrails**: https://tile.waymarkedtrails.org/skating/{z}/{x}/{y}.png
+
+* **Waymarkedtrails - Slopes - Waymarkedtrails**: https://tile.waymarkedtrails.org/slopes/{z}/{x}/{y}.png
 
 * **Wikimedia Map - Wikimedia Foundation**: https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png
 
