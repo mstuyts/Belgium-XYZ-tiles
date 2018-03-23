@@ -178,6 +178,16 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenTopoMap - Friedrich-Alexander-Universität Erlangen-Nürnberg**: https://a.tile.opentopomap.org/{z}/{x}/{y}.png - https://b.tile.opentopomap.org/{z}/{x}/{y}.png - https://c.tile.opentopomap.org/{z}/{x}/{y}.png
 
+* **OpenWeatherMap - Clouds - OpenWeatherMap**: http://tile.openweathermap.org/map/clouds_new/{z}/{x}/{y}.png
+
+* **OpenWeatherMap - Precipitation - OpenWeatherMap**: http://tile.openweathermap.org/map/precipitation_new/{z}/{x}/{y}.png
+
+* **OpenWeatherMap - Sea level pressure - OpenWeatherMap**: http://tile.openweathermap.org/map/pressure_new/{z}/{x}/{y}.png
+
+* **OpenWeatherMap - Temperature - OpenWeatherMap**: http://tile.openweathermap.org/map/temp_new/{z}/{x}/{y}.png
+
+* **OpenWeatherMap - Wind speed - OpenWeatherMap**: http://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png
+
 * **Stamen Terrain Background - Stamen**: http://a.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://b.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://c.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://d.tile.stamen.com/terrain-background/{z}/{x}/{y}.png
 
 * **Stamen Terrain Labels - Stamen**: http://a.tile.stamen.com/terrain-labels/{z}/{x}/{y}.png - http://b.tile.stamen.com/terrain-labels/{z}/{x}/{y}.png - http://c.tile.stamen.com/terrain-labels/{z}/{x}/{y}.png - http://d.tile.stamen.com/terrain-labels/{z}/{x}/{y}.png
