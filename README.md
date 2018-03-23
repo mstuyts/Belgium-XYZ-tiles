@@ -66,7 +66,21 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 ## World
 
-* **CARTO Dark All - CARTO**: https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png
+* **CARTO Base Antique - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png
+
+* **CARTO Base Eco - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png
+
+* **CARTO Base Flat Blue - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-flatblue/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-flatblue/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-flatblue/{z}/{x}/{y}.png
+
+* **CARTO Base Midnight - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-midnight/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-midnight/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-midnight/{z}/{x}/{y}.png
+
+* **CARTO Dark (All) - CARTO**: https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png
+
+* **CARTO Dark (No Labels) - CARTO**: https://a.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png
+
+* **CARTO Light (All) - CARTO**: https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
+
+* **CARTO Light (No Labels) - CARTO**: https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png
 
 * **Esri DeLorme World Base Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}
 
@@ -126,6 +140,18 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Hike Bike Map - Wikimedia Foundation**: http://a.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png
 
+* **MapQuest Open Aerial - Space Informatics Lab (SIL)**: http://sil.uc.edu/cgi-bin/local-proxy-1/{z}/{x}/{y}.jpg
+
+* **Mapzen Terrain (AWS) - Mapzen**: https://s3.amazonaws.com/elevation-tiles-prod/normal/{z}/{x}/{y}.png
+
+* **Mapzen Terrarium (AWS) - Mapzen**: https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png
+
+* **NASA GIBS MODIS Aqua Corrected Reflectance True Color - Nasa**: https://map1a.vis.earthdata.nasa.gov/wmts-webmerc/MODIS_Aqua_CorrectedReflectance_TrueColor/default/2018-03-20/GoogleMapsCompatible_Level9/{z}/{y}/{x}.jpg
+
+* **NASA GIBS MODIS Terra Corrected Reflectance True Color - Nasa**: https://map1a.vis.earthdata.nasa.gov/wmts-webmerc/MODIS_Terra_CorrectedReflectance_TrueColor/default/2018-03-20/GoogleMapsCompatible_Level9/{z}/{y}/{x}.jpg
+
+* **NASA GIBS VIIRS Earth At Night 2012 - Nasa**: https://map1.vis.earthdata.nasa.gov/wmts-webmerc/VIIRS_CityLights_2012/default//GoogleMapsCompatible_Level8/{z}/{y}/{x}.jpg
+
 * **OpenCycleMap - Thunderforest**: https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png
 
 * **OpenRiverBoatMap - OpenStreetMap France**: https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
@@ -133,6 +159,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenSeaMap - OpenSeaMap**: https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Space Informatics Lab (SIL)**: http://sil.uc.edu/cgi-bin/local-proxy/{z}/{x}/{y}.png
 
 * **OpenStreetMap ÖPNV-Karte - OpenStreetMap Deutschland**: https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
 
