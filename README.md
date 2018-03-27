@@ -10,18 +10,6 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 ## Belgium
 
-* **Belgium Boundary - GEO-6**: https://geo6.be/mapproxy/boundary/wmts/boundary/webmercator/{z}/{x}/{y}.png
-
-* **Belgium Civil Protection - GEO-6**: https://geo6.be/mapproxy/zones/wmts/civil_protection/webmercator/{z}/{x}/{y}.png
-
-* **Belgium Emergency - GEO-6**: https://geo6.be/mapproxy/zones/wmts/emergency/webmercator/{z}/{x}/{y}.png
-
-* **Belgium Fire Service - GEO-6**: https://geo6.be/mapproxy/zones/wmts/fire_service/webmercator/{z}/{x}/{y}.png
-
-* **Belgium Judicial - GEO-6**: https://geo6.be/mapproxy/zones/wmts/judicial/webmercator/{z}/{x}/{y}.png
-
-* **Belgium Police - GEO-6**: https://geo6.be/mapproxy/zones/wmts/police/webmercator/{z}/{x}/{y}.png
-
 * **OpenFietsKaart - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-overlay/{z}/{x}/{y}.png
 
 * **OpenFietsKaart (Lokaal) - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-lcn/{z}/{x}/{y}.png
@@ -164,6 +152,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenStreetMap ÖPNV-Karte - OpenStreetMap Deutschland**: https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
 
+* **OpenStreetMap - Admin Boundaries (experimental) - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/adminb/x={x}&y={y}&z={z}
+
 * **OpenStreetMap - Black & White Mapnik - Wikimedia Foundation**: http://a.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Deutschland - OpenStreetMap - Deutschland**: https://a.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://b.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://c.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png - https://d.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png
@@ -171,6 +161,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenStreetMap - France - OpenStreetMap France**: https://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Semi-Transparant - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/hybrid/x={x}&y={y}&z={z}
 
 * **OpenStreetMap Carto Style (default) - OpenStreetMap Foundation**: https://a.tile.openstreetmap.org/{z}/{x}/{y}.png - https://b.tile.openstreetmap.org/{z}/{x}/{y}.png - https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
 
