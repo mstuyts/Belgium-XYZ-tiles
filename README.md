@@ -10,6 +10,18 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 ## Belgium
 
+* **Belgium Boundary - GEO-6**: https://geo6.be/mapproxy/boundary/wmts/boundary/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Civil Protection - GEO-6**: https://geo6.be/mapproxy/zones/wmts/civil_protection/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Emergency - GEO-6**: https://geo6.be/mapproxy/zones/wmts/emergency/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Fire Service - GEO-6**: https://geo6.be/mapproxy/zones/wmts/fire_service/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Judicial - GEO-6**: https://geo6.be/mapproxy/zones/wmts/judicial/webmercator/{z}/{x}/{y}.png
+
+* **Belgium Police - GEO-6**: https://geo6.be/mapproxy/zones/wmts/police/webmercator/{z}/{x}/{y}.png
+
 * **OpenFietsKaart - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-overlay/{z}/{x}/{y}.png
 
 * **OpenFietsKaart (Lokaal) - OpenStreetMap Nederland**: https://tile.openstreetmap.nl/openfietskaart-lcn/{z}/{x}/{y}.png
@@ -54,6 +66,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 ## World
 
+* **AllRailMap - AllRailMap**: https://map.tual.fr/osm/{z}/{x}/{y}.png
+
 * **ASTER GDEM & SRTM Hillshade - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/asterh/x={x}&y={y}&z={z}
 
 * **ASTER GDEM Contour Lines - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/asterc/x={x}&y={y}&z={z}
@@ -73,6 +87,10 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **CARTO Light (All) - CARTO**: https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png
 
 * **CARTO Light (No Labels) - CARTO**: https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png - https://b.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png - https://c.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png
+
+* **ecMaps - Falk - eT4**: http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=falk&MapStyle=Falk%20OSM&TileX={x}&TileY={y}&ZoomLevel={z}
+
+* **ecMaps - Summer OSM - eT4**: http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=ecmaps&MapStyle=Summer%20OSM&TileX={x}&TileY={y}&ZoomLevel={z}
 
 * **Esri DeLorme World Base Map - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}
 
@@ -116,6 +134,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **Esri World Transportation - Esri**: https://server.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}
 
+* **F4map 2D - F4**: https://tile1.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile2.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile3.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile4.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png
+
 * **Google Maps - Google**: https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}
 
 * **Google Maps Light - Google**: https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}
@@ -131,6 +151,10 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **Google Terrain Hybrid - Google**: https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}
 
 * **Hike Bike Map - Wikimedia Foundation**: http://a.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png
+
+* **iPhoto Slideshow Style - Apple**: http://gsp2.apple.com/tile?api=1&style=slideshow&layers=default&z={z}&x={x}&y={y}&v=9
+
+* **Mapbox - Satellite - Mapbox**: https://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}@2x.jpg
 
 * **MapQuest Open Aerial - Space Informatics Lab (SIL)**: http://sil.uc.edu/cgi-bin/local-proxy-1/{z}/{x}/{y}.jpg
 
@@ -163,6 +187,8 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 * **OpenStreetMap ÖPNV-Karte - OpenStreetMap Deutschland**: https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Admin Boundaries (experimental) - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/adminb/x={x}&y={y}&z={z}
+
+* **OpenStreetMap - Bergfex - bergfex gmbh**: https://maps.bergfex.at/osm/512px/{z}/{x}/{y}.jpg
 
 * **OpenStreetMap - Black & White Mapnik - Wikimedia Foundation**: http://a.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png
 
