@@ -54,6 +54,10 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 ## World
 
+* **ASTER GDEM & SRTM Hillshade - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/asterh/x={x}&y={y}&z={z}
+
+* **ASTER GDEM Contour Lines - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/asterc/x={x}&y={y}&z={z}
+
 * **CARTO Base Antique - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-antique/{z}/{x}/{y}.png
 
 * **CARTO Base Eco - CARTO**: https://cartocdn_a.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png - https://cartocdn_b.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png - https://cartocdn_c.global.ssl.fastly.net/base-eco/{z}/{x}/{y}.png
@@ -140,11 +144,17 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **NASA GIBS VIIRS Earth At Night 2012 - Nasa**: https://map1.vis.earthdata.nasa.gov/wmts-webmerc/VIIRS_CityLights_2012/default//GoogleMapsCompatible_Level8/{z}/{y}/{x}.jpg
 
+* **Open Public Transport Map - Open Public Transport Map**: http://www.openptmap.org/tiles/{z}/{x}/{y}.png
+
 * **OpenCycleMap - Thunderforest**: https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png
 
 * **OpenRiverBoatMap - OpenStreetMap France**: https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png
 
 * **OpenSeaMap - OpenSeaMap**: https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
+
+* **OpenSnowMap (Overlay) - OpenSnowMap**: https://www.opensnowmap.org/opensnowmap-overlay/{z}/{x}/{y}.png
+
+* **OpenSnowMap (Pistes) - OpenSnowMap**: https://www.opensnowmap.org/tiles-pistes/{z}/{x}/{y}.png
 
 * **OpenStreetMap - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm/{z}/{x}/{y}.png
 
@@ -162,9 +172,27 @@ More information about xyz Tile Layer Services kan be found on [Wikipedia](http:
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
 
+* **OpenStreetMap - No Labels - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Roads - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}
+
+* **OpenStreetMap - Roads (Grayscale) - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/roadsg/x={x}&y={y}&z={z}
+
 * **OpenStreetMap - Semi-Transparant - GIScience Research Group Institute of Geography - Heidelberg University**: https://korona.geog.uni-heidelberg.de/tiles/hybrid/x={x}&y={y}&z={z}
 
+* **OpenStreetMap - Streetlights - GIScience Research Group Institute of Geography - Heidelberg University**: http://korona.geog.uni-heidelberg.de:8005/tms_lt.ashx?x={x}&y={y}&z={z}
+
+* **OpenStreetMap - Sverige - OpenStreetMap Sverige**: https://a.tile.openstreetmap.se/osm/{z}/{x}/{y}.png - https://b.tile.openstreetmap.se/osm/{z}/{x}/{y}.png - https://c.tile.openstreetmap.se/osm/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Sverige (Hydda Base) - OpenStreetMap Sverige**: https://a.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png - https://b.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png - https://c.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Sverige (Hydda Full) - OpenStreetMap Sverige**: https://a.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png - https://b.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png - https://c.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png
+
+* **OpenStreetMap - Sverige (Hydda Roads and Labels) - OpenStreetMap Sverige**: https://a.tile.openstreetmap.se/hydda/roads_and_labels/{z}/{x}/{y}.png - https://b.tile.openstreetmap.se/hydda/roads_and_labels/{z}/{x}/{y}.png - https://c.tile.openstreetmap.se/hydda/roads_and_labels/{z}/{x}/{y}.png
+
 * **OpenStreetMap Carto Style (default) - OpenStreetMap Foundation**: https://a.tile.openstreetmap.org/{z}/{x}/{y}.png - https://b.tile.openstreetmap.org/{z}/{x}/{y}.png - https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
+
+* **OpenStreetMap GPS traces - OpenStreetMap Foundation**: https://a.gps-tile.openstreetmap.org/lines/{z}/{x}/{y}.png - https://b.gps-tile.openstreetmap.org/lines/{z}/{x}/{y}.png - https://c.gps-tile.openstreetmap.org/lines/{z}/{x}/{y}.png
 
 * **OpenStreetMap Multilingual - Wikimedia Foundation**: http://a.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-multilingual/en,_/{z}/{x}/{y}.png
 
