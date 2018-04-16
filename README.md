@@ -120,7 +120,7 @@ Minimum zoom level: 0 - Maximum zoom level: 14
 
 * **ASTER GDEM & SRTM Hillshade - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterh/x={x}&y={y}&z={z}  
-Minimum zoom level: 0 - Maximum zoom level: 17
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **ASTER GDEM Contour Lines - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterc/x={x}&y={y}&z={z}  
@@ -165,6 +165,22 @@ Minimum zoom level: 0 - Maximum zoom level: 17
 * **ecMaps - Summer OSM - eT4**:   
 http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=ecmaps&MapStyle=Summer%20OSM&TileX={x}&TileY={y}&ZoomLevel={z}  
 Minimum zoom level: 0 - Maximum zoom level: 16
+
+* **ecMaps - Summer OSM (Kompass) - eT4**:   
+http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=kompass&MapStyle=su&TileX={x}&TileY={y}&ZoomLevel={z}  
+Minimum zoom level: 0 - Maximum zoom level: 16
+
+* **ecMaps - Touristik OSM (Kompass) - eT4**:   
+http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=kompass&MapStyle=KOMPASS%20Touristik&TileX={x}&TileY={y}&ZoomLevel={z}  
+Minimum zoom level: 0 - Maximum zoom level: 16
+
+* **ecMaps - Winter OSM (Kompass) - eT4**:   
+http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=kompass&MapStyle=wi&TileX={x}&TileY={y}&ZoomLevel={z}  
+Minimum zoom level: 0 - Maximum zoom level: 15
+
+* **ecMaps - Winter Touristik OSM (Kompass) - eT4**:   
+http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=kompass&MapStyle=Winter%20Touristik&TileX={x}&TileY={y}&ZoomLevel={z}  
+Minimum zoom level: 0 - Maximum zoom level: 15
 
 * **Esri DeLorme World Base Map - Esri**:   
 https://server.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}  
@@ -254,6 +270,10 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 https://tile1.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile2.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile3.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png - https://tile4.f4map.com/tiles/f4_2d/{z}/{x}/{y}.png  
 Minimum zoom level: 1 - Maximum zoom level: 19
 
+* **Google Bike - Google**:   
+https://mt1.google.com/vt/lyrs=m,bike&x={x}&y={y}&z={z}  
+Minimum zoom level: 0 - Maximum zoom level: 22
+
 * **Google Maps - Google**:   
 https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}  
 Minimum zoom level: 0 - Maximum zoom level: 22
@@ -282,6 +302,14 @@ Minimum zoom level: 0 - Maximum zoom level: 22
 https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}  
 Minimum zoom level: 0 - Maximum zoom level: 22
 
+* **Google Traffic - Google**:   
+https://mt1.google.com/vt/lyrs=m,traffic&x={x}&y={y}&z={z}  
+Minimum zoom level: 0 - Maximum zoom level: 22
+
+* **Google Transit - Google**:   
+https://mt1.google.com/vt/lyrs=m,transit|vm:1&x={x}&y={y}&z={z}  
+Minimum zoom level: 0 - Maximum zoom level: 22
+
 * **Hike Bike Map - Wikimedia Foundation**:   
 http://a.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 20
@@ -290,13 +318,77 @@ Minimum zoom level: 0 - Maximum zoom level: 20
 http://gsp2.apple.com/tile?api=1&style=slideshow&layers=default&z={z}&x={x}&y={y}&v=9  
 Minimum zoom level: 3 - Maximum zoom level: 14
 
+* **Kartogiraffe - Base Map - Thomas Wendt**:   
+http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}  
+Minimum zoom level: 1 - Maximum zoom level: 24
+
+* **Kartogiraffe - Bicycle Map - Thomas Wendt**:   
+http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=bicycle  
+Minimum zoom level: 1 - Maximum zoom level: 24
+
+* **Kartogiraffe - Hiking Map - Thomas Wendt**:   
+http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=hiking  
+Minimum zoom level: 1 - Maximum zoom level: 24
+
+* **Kartogiraffe - Transport Map - Thomas Wendt**:   
+http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=transport  
+Minimum zoom level: 1 - Maximum zoom level: 24
+
+* **Mapbox - Hybrid - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - MapQuest Dark - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/mapquest.dark-mb/{z}/{x}/{y}@2x.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - MapQuest Light - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/mapquest.light-mb/{z}/{x}/{y}@2x.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - MapQuest Streets - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/mapquest.streets-mb/{z}/{x}/{y}@2x.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - Runkeepers - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/heyitsgarrett.kf2a2nb1/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
 * **Mapbox - Satellite - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
 https://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}@2x.jpg  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - Terrain - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}@2x.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapbox - Transport - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
+https://a.tiles.mapbox.com/v4/peterqliu.9d05be4d/{z}/{x}/{y}@2x.png  
 Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **MapQuest Open Aerial - Space Informatics Lab (SIL)**:   
 http://sil.uc.edu/cgi-bin/local-proxy-1/{z}/{x}/{y}.jpg  
 Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Mapy - Aerial Map (Bing) - Seznam.cz**:   
+https://mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/bing/{z}-{x}-{y}  
+Minimum zoom level: 0 - Maximum zoom level: 13
+
+* **Mapy - Base Map - Seznam.cz**:   
+https://mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/base-m/{z}-{x}-{y}  
+Minimum zoom level: 0 - Maximum zoom level: 18
+
+* **Mapy - Labels & Borders - Seznam.cz**:   
+https://mapserver.mapy.cz/hybrid-sparse-m/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/hybrid-sparse-m/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/hybrid-sparse-m/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/hybrid-sparse-m/{z}-{x}-{y}  
+Minimum zoom level: 2 - Maximum zoom level: 20
+
+* **Mapy - Tourist Map - Seznam.cz**:   
+https://mapserver.mapy.cz/turist-m/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/turist-m/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/turist-m/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/turist-m/{z}-{x}-{y}  
+Minimum zoom level: 0 - Maximum zoom level: 18
+
+* **Mapy - Winter - Seznam.cz**:   
+https://mapserver.mapy.cz/winter-m/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/winter-m/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/winter-m/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/winter-m/{z}-{x}-{y}  
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **Mapzen Terrain (AWS) - Mapzen**:   
 https://s3.amazonaws.com/elevation-tiles-prod/normal/{z}/{x}/{y}.png  
@@ -328,7 +420,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **OpenRiverBoatMap - OpenStreetMap France**:   
 https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **OpenSeaMap - OpenSeaMap**:   
 https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png  
@@ -376,7 +468,15 @@ Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**:   
 https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 19
+
+* **OpenStreetMap - Kosmosnimki - GeoMixer**:   
+http://a.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://b.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://c.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 18
+
+* **OpenStreetMap - Kosmosnimki Night - GeoMixer**:   
+http://a.tile.osm.kosmosnimki.ru/night/{z}/{x}/{y}.png - http://b.tile.osm.kosmosnimki.ru/night/{z}/{x}/{y}.png - http://c.tile.osm.kosmosnimki.ru/night/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - No Labels - Wikimedia Foundation**:   
 http://a.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png  
@@ -449,6 +549,10 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 * **OpenWeatherMap - Wind speed - OpenWeatherMap** **([API KEY NECESSARY!](https://openweathermap.org))**:   
 http://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **Sputnik RU - GeoMixer**:   
+http://tilessputnik.ru/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **Stamen Terrain Background - Stamen**:   
 http://a.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://b.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://c.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://d.tile.stamen.com/terrain-background/{z}/{x}/{y}.png  
@@ -574,6 +678,10 @@ Minimum zoom level: 0 - Maximum zoom level: 12
 https://heatmap-external-a.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/hot/{z}/{x}/{y}.png?px=256  
 Minimum zoom level: 0 - Maximum zoom level: 12
 
+* **Thunderforest Komoot Map - Thunderforest / Komoot** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
+https://a.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png - https://b.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png - https://c.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 18
+
 * **Thunderforest Landscape Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/landscape/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/landscape/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 24
@@ -604,7 +712,19 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
+Minimum zoom level: 0 - Maximum zoom level: 23
+
+* **ViaMichelin - Michelin**:   
+https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
+Minimum zoom level: 1 - Maximum zoom level: 19
+
+* **ViaMichelin Light - Michelin**:   
+https://map1.viamichelin.com/map/mapdirect?map=light&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=light&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=light&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=light&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=light&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
+Minimum zoom level: 1 - Maximum zoom level: 19
+
+* **ViaMichelin Minimal - Michelin**:   
+https://map1.viamichelin.com/map/mapdirect?map=hybrid&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=network - https://map2.viamichelin.com/map/mapdirect?map=hybrid&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=network - https://map3.viamichelin.com/map/mapdirect?map=hybrid&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=network - https://map4.viamichelin.com/map/mapdirect?map=hybrid&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=network - https://map5.viamichelin.com/map/mapdirect?map=hybrid&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=network  
+Minimum zoom level: 1 - Maximum zoom level: 19
 
 * **Waymarkedtrails - Cycling - Waymarkedtrails**:   
 https://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png  
