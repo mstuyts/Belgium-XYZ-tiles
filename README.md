@@ -319,19 +319,19 @@ http://gsp2.apple.com/tile?api=1&style=slideshow&layers=default&z={z}&x={x}&y={y
 Minimum zoom level: 3 - Maximum zoom level: 14
 
 * **Kartogiraffe - Base Map - Thomas Wendt**:   
-http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}  
+https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}  
 Minimum zoom level: 1 - Maximum zoom level: 24
 
 * **Kartogiraffe - Bicycle Map - Thomas Wendt**:   
-http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=bicycle  
+https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=bicycle  
 Minimum zoom level: 1 - Maximum zoom level: 24
 
 * **Kartogiraffe - Hiking Map - Thomas Wendt**:   
-http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=hiking  
-Minimum zoom level: 1 - Maximum zoom level: 24
+https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=hiking  
+Minimum zoom level: 1 - Maximum zoom level: 10
 
 * **Kartogiraffe - Transport Map - Thomas Wendt**:   
-http://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=transport  
+https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=transport  
 Minimum zoom level: 1 - Maximum zoom level: 24
 
 * **Mapbox - Hybrid - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
@@ -420,7 +420,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **OpenRiverBoatMap - OpenStreetMap France**:   
 https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 19
+Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenSeaMap - OpenSeaMap**:   
 https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png  
@@ -468,7 +468,7 @@ Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**:   
 https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 19
+Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenStreetMap - Kosmosnimki - GeoMixer**:   
 http://a.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://b.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://c.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png  
@@ -552,7 +552,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Sputnik RU - GeoMixer**:   
 http://tilessputnik.ru/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 18
+Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **Stamen Terrain Background - Stamen**:   
 http://a.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://b.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://c.tile.stamen.com/terrain-background/{z}/{x}/{y}.png - http://d.tile.stamen.com/terrain-background/{z}/{x}/{y}.png  
@@ -712,7 +712,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **ViaMichelin - Michelin**:   
 https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
