@@ -328,7 +328,7 @@ Minimum zoom level: 1 - Maximum zoom level: 24
 
 * **Kartogiraffe - Hiking Map - Thomas Wendt**:   
 https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=hiking  
-Minimum zoom level: 1 - Maximum zoom level: 10
+Minimum zoom level: 1 - Maximum zoom level: 24
 
 * **Kartogiraffe - Transport Map - Thomas Wendt**:   
 https://www.kartogiraffe.de/tiles/tile.php?zoom={z}&x={x}&y={y}&type=transport  
@@ -372,7 +372,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Mapy - Aerial Map (Bing) - Seznam.cz**:   
 https://mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/bing/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/bing/{z}-{x}-{y}  
-Minimum zoom level: 0 - Maximum zoom level: 13
+Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **Mapy - Base Map - Seznam.cz**:   
 https://mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m1.mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m2.mapserver.mapy.cz/base-m/{z}-{x}-{y} - https://m3.mapserver.mapy.cz/base-m/{z}-{x}-{y}  
@@ -397,6 +397,10 @@ Minimum zoom level: 0 - Maximum zoom level: 15
 * **Mapzen Terrarium (AWS) - Mapzen**:   
 https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 15
+
+* **Mozilla Stumbler - Mozilla**:   
+https://d3r3tk5171bc5t.cloudfront.net/tiles/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 12
 
 * **NASA GIBS MODIS Aqua Corrected Reflectance True Color - Nasa**:   
 https://map1a.vis.earthdata.nasa.gov/wmts-webmerc/MODIS_Aqua_CorrectedReflectance_TrueColor/default/2018-03-20/GoogleMapsCompatible_Level9/{z}/{y}/{x}.jpg  
@@ -551,7 +555,7 @@ http://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png
 Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Sputnik RU - GeoMixer**:   
-http://tilessputnik.ru/{z}/{x}/{y}.png  
+https://tilessputnik.ru/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **Stamen Terrain Background - Stamen**:   
@@ -708,11 +712,11 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Dark Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
+Minimum zoom level: 0 - Maximum zoom level: 23
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
+Minimum zoom level: 0 - Maximum zoom level: 23
 
 * **ViaMichelin - Michelin**:   
 https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
