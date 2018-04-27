@@ -412,7 +412,7 @@ Minimum zoom level: 0 - Maximum zoom level: 9
 
 * **NASA GIBS VIIRS Earth At Night 2012 - Nasa**:   
 https://map1.vis.earthdata.nasa.gov/wmts-webmerc/VIIRS_CityLights_2012/default//GoogleMapsCompatible_Level8/{z}/{y}/{x}.jpg  
-Minimum zoom level: 1 - Maximum zoom level: 8
+Minimum zoom level: 1 - Maximum zoom level: 7
 
 * **Open Public Transport Map - Open Public Transport Map**:   
 http://www.openptmap.org/tiles/{z}/{x}/{y}.png  
@@ -422,9 +422,21 @@ Minimum zoom level: 4 - Maximum zoom level: 17
 https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/cycle/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 24
 
+* **OpenCycleMap - OpenCycleMap**:   
+http://a.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png - http://b.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 24
+
+* **OpenCycleMap - Transport Map - OpenCycleMap**:   
+http://a.tile.opencyclemap.org/transport/{z}/{x}/{y}.png - http://b.tile.opencyclemap.org/transport/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 23
+
+* **OpenRailwayMap - OpenRailwayMap**:   
+http://a.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - http://b.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - http://c.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 0
+
 * **OpenRiverBoatMap - OpenStreetMap France**:   
 https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **OpenSeaMap - OpenSeaMap**:   
 https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png  
@@ -716,7 +728,7 @@ Minimum zoom level: 0 - Maximum zoom level: 23
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **ViaMichelin - Michelin**:   
 https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
