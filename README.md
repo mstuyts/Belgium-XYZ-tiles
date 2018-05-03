@@ -412,7 +412,7 @@ Minimum zoom level: 0 - Maximum zoom level: 9
 
 * **NASA GIBS VIIRS Earth At Night 2012 - Nasa**:   
 https://map1.vis.earthdata.nasa.gov/wmts-webmerc/VIIRS_CityLights_2012/default//GoogleMapsCompatible_Level8/{z}/{y}/{x}.jpg  
-Minimum zoom level: 1 - Maximum zoom level: 7
+Minimum zoom level: 1 - Maximum zoom level: 8
 
 * **Open Public Transport Map - Open Public Transport Map**:   
 http://www.openptmap.org/tiles/{z}/{x}/{y}.png  
@@ -428,15 +428,15 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **OpenCycleMap - Transport Map - OpenCycleMap**:   
 http://a.tile.opencyclemap.org/transport/{z}/{x}/{y}.png - http://b.tile.opencyclemap.org/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **OpenRailwayMap - OpenRailwayMap**:   
-http://a.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - http://b.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - http://c.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 0
+https://a.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - https://b.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png - https://c.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenRiverBoatMap - OpenStreetMap France**:   
 https://a.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 19
+Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenSeaMap - OpenSeaMap**:   
 https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png  
@@ -497,6 +497,10 @@ Minimum zoom level: 0 - Maximum zoom level: 18
 * **OpenStreetMap - No Labels - Wikimedia Foundation**:   
 http://a.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 20
+
+* **OpenStreetMap - Nop's Hiking and Trail Riding Map - OpenStreetMap Foundation**:   
+http://www.wanderreitkarte.de/topo/{z}/{x}/{y}.png  
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - Roads - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}  
@@ -676,7 +680,7 @@ Minimum zoom level: 0 - Maximum zoom level: 12
 
 * **Strava Global Heatmap - Water Sports - Hot - Strava**:   
 https://heatmap-external-a.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256  
-Minimum zoom level: 0 - Maximum zoom level: 12
+Minimum zoom level: 1 - Maximum zoom level: 12
 
 * **Strava Global Heatmap - Winter Sports - Blue - Strava**:   
 https://heatmap-external-a.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256  
@@ -724,7 +728,7 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Dark Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
