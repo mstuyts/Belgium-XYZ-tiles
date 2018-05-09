@@ -50,21 +50,17 @@ Minimum zoom level: 0 - Maximum zoom level: 18
 https://tile.openstreetmap.nl/openfietskaart-rcn/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 18
 
-* **OpenStreetMap - Belgium (DE) - OpenStreetMap Belgium**:   
-https://tile.osm.be/osmbe-de/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
-
 * **OpenStreetMap - Belgium (FR) - OpenStreetMap Belgium**:   
 https://tile.osm.be/osmbe-fr/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - Belgium (Multilingual) - OpenStreetMap Belgium**:   
 https://tile.osm.be/osmbe/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - Belgium (NL) - OpenStreetMap Belgium**:   
 https://tile.osm.be/osmbe-nl/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - Nederland - OpenStreetMap Nederland**:   
 https://tile.openstreetmap.nl/osm/{z}/{x}/{y}.png  
@@ -120,7 +116,7 @@ Minimum zoom level: 0 - Maximum zoom level: 14
 
 * **ASTER GDEM & SRTM Hillshade - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterh/x={x}&y={y}&z={z}  
-Minimum zoom level: 0 - Maximum zoom level: 18
+Minimum zoom level: 0 - Maximum zoom level: 15
 
 * **ASTER GDEM Contour Lines - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterc/x={x}&y={y}&z={z}  
@@ -364,10 +360,6 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Mapbox - Transport - Mapbox** **([API KEY NECESSARY!](https://www.mapbox.com))**:   
 https://a.tiles.mapbox.com/v4/peterqliu.9d05be4d/{z}/{x}/{y}@2x.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
-
-* **MapQuest Open Aerial - Space Informatics Lab (SIL)**:   
-http://sil.uc.edu/cgi-bin/local-proxy-1/{z}/{x}/{y}.jpg  
 Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Mapy - Aerial Map (Bing) - Seznam.cz**:   
@@ -680,7 +672,7 @@ Minimum zoom level: 0 - Maximum zoom level: 12
 
 * **Strava Global Heatmap - Water Sports - Hot - Strava**:   
 https://heatmap-external-a.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/water/hot/{z}/{x}/{y}.png?px=256  
-Minimum zoom level: 1 - Maximum zoom level: 12
+Minimum zoom level: 0 - Maximum zoom level: 12
 
 * **Strava Global Heatmap - Winter Sports - Blue - Strava**:   
 https://heatmap-external-a.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-b.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256 - https://heatmap-external-c.strava.com/tiles/winter/blue/{z}/{x}/{y}.png?px=256  
@@ -728,11 +720,11 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Dark Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
+Minimum zoom level: 0 - Maximum zoom level: 23
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 24
+Minimum zoom level: 0 - Maximum zoom level: 23
 
 * **ViaMichelin - Michelin**:   
 https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
