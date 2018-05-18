@@ -116,7 +116,7 @@ Minimum zoom level: 0 - Maximum zoom level: 14
 
 * **ASTER GDEM & SRTM Hillshade - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterh/x={x}&y={y}&z={z}  
-Minimum zoom level: 0 - Maximum zoom level: 15
+Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **ASTER GDEM Contour Lines - GIScience Research Group Institute of Geography - Heidelberg University**:   
 https://korona.geog.uni-heidelberg.de/tiles/asterc/x={x}&y={y}&z={z}  
@@ -490,8 +490,8 @@ Minimum zoom level: 0 - Maximum zoom level: 18
 http://a.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://b.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png - http://c.tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 20
 
-* **OpenStreetMap - Nop's Hiking and Trail Riding Map - OpenStreetMap Foundation**:   
-http://www.wanderreitkarte.de/topo/{z}/{x}/{y}.png  
+* **OpenStreetMap - Nop - OpenStreetMap Foundation**:   
+https://www.wanderreitkarte.de/topo/{z}/{x}/{y}.png  
 Minimum zoom level: 0 - Maximum zoom level: 18
 
 * **OpenStreetMap - Roads - GIScience Research Group Institute of Geography - Heidelberg University**:   
@@ -720,11 +720,11 @@ Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Dark Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **Thunderforest Transport Map - Thunderforest** **([API KEY NECESSARY!](https://www.thunderforest.com/))**:   
 https://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://b.tile.thunderforest.com/transport/{z}/{x}/{y}.png - https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 23
+Minimum zoom level: 0 - Maximum zoom level: 24
 
 * **ViaMichelin - Michelin**:   
 https://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background - https://map5.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201503191157&layer=background  
