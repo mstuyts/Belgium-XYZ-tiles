@@ -476,7 +476,7 @@ Minimum zoom level: 0 - Maximum zoom level: 20
 
 * **OpenStreetMap - HOT - Humanitarian OpenStreetMap Team (HOT)**:   
 https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://b.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png - https://c.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png  
-Minimum zoom level: 0 - Maximum zoom level: 20
+Minimum zoom level: 0 - Maximum zoom level: 19
 
 * **OpenStreetMap - Kosmosnimki - GeoMixer**:   
 http://a.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://b.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png - http://c.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png  
